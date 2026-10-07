@@ -195,8 +195,7 @@ int main()
         User::ghiFile();
 
         cout << "Da tao tai khoan Admin mac dinh." << endl;
-        cout << "Username: admin01" << endl;
-        cout << "Password: Admin@123" << endl;
+       
     }
 
     int choice;
